@@ -79,6 +79,6 @@ Choose one of the following installation methods based on your preference:
 ## Recommended Python Version 🐍
 The recommended Python version for running this script is **3.8**. Ensure you have Python 3.8 or a compatible version installed before executing the script.
 
-Feel free to customize the script or Dockerfile according to your needs. If you encounter any issues or have questions, please open an [issue](https://github.com/synlax/discord-cloner/issues).
+Feel free to customize the script or Dockerfile according to your needs. If you encounter any issues or have questions, please open an [issue](https://github.com/Synlax/Discord-Server-Cloner/issues).
 
 Happy cloning! 🚀🌈🔍
